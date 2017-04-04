@@ -1,0 +1,24 @@
+{
+	"node" : true,
+	"curly": false,
+	"eqeqeq": true,
+	"strict": false,
+	"undef": true,
+	"noarg": true,
+	"loopfunc": true,
+	"immed": true,
+	"indent": 4,
+	"quotmark": "single",
+	"eqnull": true,
+	"multistr": true,
+	"shadow": true,
+	"globals": {
+		"Promise": true,
+		"describe": true,
+		"it": true,
+		"beforeEach": true,
+		"afterEach": true
+	},
+	"esnext": true,
+	"asi": true
+}
